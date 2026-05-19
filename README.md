@@ -1,28 +1,49 @@
 # 💎 Luxe Jewels
 
-A modern luxury jewellery shop website built using HTML, CSS, and JavaScript.
+A premium luxury jewellery shop website built using HTML, CSS, and JavaScript with a modern black & gold aesthetic design.
 
 ---
 
-## ✨ Features
+# 🌐 Live Website
 
-- Premium luxury UI design
-- Fully responsive website
-- Hero section with luxury banner
-- Jewellery collection cards
-- Luxury gallery section
-- Customer reviews
-- FAQ section
-- Contact form
-- WhatsApp floating button
-- Newsletter subscription
-- Smooth scrolling
-- Back to top button
-- Loading screen animation
+🔗 https://kashyapaidev.github.io/luxe-jewels-website/
 
 ---
 
-## 🛠️ Technologies Used
+# ✨ Features
+
+✅ Premium luxury UI/UX  
+✅ Fully responsive for all devices  
+✅ Mobile-friendly modern layout  
+✅ Smooth scrolling animations  
+✅ Luxury hero banner section  
+✅ Jewellery product showcase  
+✅ Elegant gallery section  
+✅ Customer review cards  
+✅ FAQ section  
+✅ Contact form  
+✅ WhatsApp floating button  
+✅ Newsletter subscription  
+✅ Back to top button  
+✅ Hover effects & transitions  
+✅ Modern black & gold theme  
+✅ Fast and lightweight website  
+
+---
+
+# 📱 Responsive Design
+
+This website is optimized for:
+
+- 📱 Android Phones
+- 🍎 iPhones
+- 📲 Tablets
+- 💻 Laptops
+- 🖥️ Desktop Screens
+
+---
+
+# 🛠️ Technologies Used
 
 - HTML5
 - CSS3
@@ -30,7 +51,7 @@ A modern luxury jewellery shop website built using HTML, CSS, and JavaScript.
 
 ---
 
-## 📸 Website Sections
+# 📸 Website Sections
 
 - Home
 - About
@@ -42,9 +63,11 @@ A modern luxury jewellery shop website built using HTML, CSS, and JavaScript.
 
 ---
 
-## 🚀 Live Website
-
-Add your Netlify link here:
+# 📂 Folder Structure
 
 ```bash
-https://your-netlify-link.netlify.app
+luxe-jewels-website/
+│
+├── index.html
+├── style.css
+└── script.js
